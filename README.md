@@ -78,6 +78,18 @@ What stood out most was how **Microsoft Fabric unified ingestion, transformation
 | **Orchestration** | Automation & monitoring | Fabric Data Pipeline, Scheduled Triggers |
 
 
+---
+
+## 📂 Dataset
+
+This project uses the **AdventureWorks** sample database provided by Microsoft.
+
+- **Source:** Microsoft SQL Server Samples
+- **Download:** [AdventureWorks Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
+
+> The AdventureWorks database simulates a fictional bicycle manufacturer — including sales, customers, products, and reseller data.
+
+
 ![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/ARCHITECTURE.jpg?raw=true)
 ![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/SELECTED%20TABLES%20COPIED.jpg?raw=true)
 ![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/STAR%20SCHEMA.jpg?raw=true)
