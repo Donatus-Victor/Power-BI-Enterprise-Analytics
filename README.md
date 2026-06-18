@@ -78,6 +78,6 @@ What stood out most was how **Microsoft Fabric unified ingestion, transformation
 | **Orchestration** | Automation & monitoring | Fabric Data Pipeline, Scheduled Triggers |
 
 
-![Architecture Overview]("C:\Users\DONATUS\Desktop\fabric\fabricproject\ARCHITECTURE.jpg")
+![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/ARCHITECTURE.jpg?raw=true)
 
-"C:\Users\DONATUS\Desktop\fabric\fabricproject\ARCHITECTURE.jpg"
+
