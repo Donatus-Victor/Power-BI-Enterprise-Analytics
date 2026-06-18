@@ -79,5 +79,12 @@ What stood out most was how **Microsoft Fabric unified ingestion, transformation
 
 
 ![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/ARCHITECTURE.jpg?raw=true)
+![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/SELECTED%20TABLES%20COPIED.jpg?raw=true)
+![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/STAR%20SCHEMA.jpg?raw=true)
+![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/SEMANTIC%20MODEL%20IN%20DESKTOP.jpg?raw=true)
+![Architecture Overview](https://github.com/Donatus-Victor/Power-BI-Enterprise-Analytics/blob/main/SALES%20POWERBI.jpg?raw=true)
+
+
+
 
 
